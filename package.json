@@ -1,0 +1,11 @@
+{
+  "name": "dsh-video-read",
+  "version": "0.1.0",
+  "description": "Read any web video page into a timestamped text timeline via a headless browser. Windows only.",
+  "keywords": ["dsh", "deepseek-harness", "video", "ocr", "whisper", "headless", "cdp", "skill"],
+  "license": "MIT",
+  "author": "huangandi",
+  "files": ["SKILL.md", "README.md", "tools/"],
+  "engines": { "node": ">=18" },
+  "os": ["win32"]
+}
