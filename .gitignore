@@ -1,0 +1,8 @@
+node_modules/
+*.log
+frames/
+media.json
+audio*.wav
+audio.bin
+edge-profile/
+.DS_Store
